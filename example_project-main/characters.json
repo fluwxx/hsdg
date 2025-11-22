@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Naruto Uzumaki",
+    "age": 17,
+    "role": "Ninja",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/en/9/97/Naruto_Uzumaki.png"
+  },
+  {
+    "name": "Tony Stark",
+    "age": 48,
+    "role": "Iron Man",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Iron_Man_bleeding_edge.jpg"
+  },
+  {
+    "name": "Hermione Granger",
+    "age": 16,
+    "role": "Student",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg"
+  }
+]
