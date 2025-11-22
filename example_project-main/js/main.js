@@ -29,7 +29,10 @@ window.onkeydown = (event) => {
     }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f39dfcda4a0fc3a3ffdf6329dccda390df6171ad
 // SLIDER BLOCK
 
 const slides = document.querySelectorAll('.slide');
@@ -84,6 +87,7 @@ function resetInterval() {
 
 
 
+<<<<<<< HEAD
 
 const charactersWrapper = document.querySelector('#characters-wrapper')
 
@@ -119,3 +123,5 @@ xhrBio.send()
 xhrBio.onload = () => {
     console.log("BIO DATA:", JSON.parse(xhrBio.response))
 }
+=======
+>>>>>>> f39dfcda4a0fc3a3ffdf6329dccda390df6171ad
